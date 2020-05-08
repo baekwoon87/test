@@ -3,7 +3,7 @@
     <v-app-bar
       app
     >
-    hello@@
+    hello@@ test
     </v-app-bar>
     <v-content>
       <router-view/>
